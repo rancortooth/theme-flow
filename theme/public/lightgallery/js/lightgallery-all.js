@@ -57,7 +57,7 @@
 
         iframeMaxWidth: '100%',
 
-        download: true,
+        download: false,
         counter: true,
         appendCounterTo: '.lg-toolbar',
 
